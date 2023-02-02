@@ -1,7 +1,5 @@
-- Landing page
 Sistema de Agenda
-
-- Introdução
+- Landing page
 
 Requisitos
 - Lista de requisitos funcionais
