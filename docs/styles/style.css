@@ -1,9 +1,9 @@
 .gradient{
     color: white;
-    background: linear-gradient(50deg, gray, blue);
+    background: linear-gradient(50deg, rgb(0, 0, 0), blue);
     animation: movinggradient 10s ease infinite;
     background-size: 200%;
-    height: 100vh;
+    height: 1000px;
     background-repeat: no-repeat;
 }   
 
