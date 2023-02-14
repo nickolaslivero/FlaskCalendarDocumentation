@@ -1,6 +1,6 @@
 .gradient{
-    color: white;
-    background: linear-gradient(50deg, rgb(0, 0, 0), blue);
+    color: black;
+    background: linear-gradient(50deg, rgb(233, 235, 249), rgb(87, 143, 247));
     animation: movinggradient 10s ease infinite;
     background-size: 200%;
     height: 1000px;
